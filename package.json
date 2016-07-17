@@ -1,13 +1,16 @@
 {
   "name": "gdapi-node",
-  "version": "1.0.0",
+  "version": "0.1.0-alpha.0",
+  "publishConfig": {
+    "tag": "alpha"
+  },
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "./node_modules/.bin/mocha"
   },
   "author": "",
-  "license": "ISC",
+  "license": "Apache-2.0",
   "dependencies": {
     "bluebird": "^3.4.0",
     "lodash": "^4.13.1",
