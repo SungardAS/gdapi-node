@@ -1,6 +1,6 @@
 {
-  "name": "gdapi-node",
-  "version": "0.1.0-alpha.0",
+  "name": "gdapi",
+  "version": "0.1.0-alpha.1",
   "publishConfig": {
     "tag": "alpha"
   },
